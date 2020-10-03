@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**helrabelo/helrabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Hel Rabelo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Front-end engineer currently based on Brazil. 
+
+I'm currently working with Next.js, Gatsby.js and Svelte as the main frameworks for front-end development. Mainly focused in SSR applications that prioritize performance and user experience. 
+
+I also have a basic backend background using Node.js and Ruby on Rails.
+
+Feel free to reach me:
+
+- helrabelo@gmail.com
