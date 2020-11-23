@@ -12,3 +12,5 @@ I also have a basic backend background using Node.js and Ruby on Rails.
 Feel free to reach me:
 
 - helrabelo@gmail.com
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
