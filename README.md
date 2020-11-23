@@ -13,4 +13,4 @@ Feel free to reach me:
 
 - helrabelo@gmail.com
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=helrabelo)](https://github.com/anuraghazra/github-readme-stats)
