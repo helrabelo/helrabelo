@@ -1,19 +1,43 @@
-### Hi!
+# Hel Rabelo
 
+👋 Hi! I'm a Software Engineer based in Brazil, passionate about creating performant and user-friendly web applications.
 
-My name is Hel Rabelo.
+## 🚀 Tech Stack
 
-I'm a Front-end engineer currently based on Brazil. 
+### Primary Focus
+- Next.js
+- Gatsby.js
+- Svelte
+- React
 
-I'm currently working with Next.js, Gatsby.js and Svelte as the main frameworks for front-end development. Mainly focused in SSR applications that prioritize performance and user experience. 
+### Backend Experience
+- Node.js
+- Ruby on Rails
 
-I also have a basic backend background using Node.js and Ruby on Rails.
+## 💡 Expertise
+- Server-Side Rendering (SSR)
+- Performance Optimization
+- User Experience (UX)
+- Web Accessibility
+- Responsive Design
 
-Feel free to reach me:
+## 📈 GitHub Stats
 
-- helrabelo@gmail.com
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helrabelo&layout=compact&theme=dracula)](https://github.com/helrabelo)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=helrabelo&show_icons=true&theme=dracula)](https://github.com/helrabelo)
 
-[![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helrabelo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Connect with Me
+- 📧 Email: helrabelo@gmail.com
+- [helrabelo.dev](https://helrabelo.dev)
+- [LinkedIn](https://linkedin.com/in/helrabelo) 
 
+<!-- ## 📌 Featured Projects -->
+<!-- Consider adding 2-3 of your best projects here -->
+<!-- Example:
+### Project Name
+Brief description of the project, tech stack used, and what problem it solves.
+[Live Demo](link) | [GitHub](link)
+-->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=helrabelo)](https://github.com/anuraghazra/github-readme-stats)
+---
+⭐️ From [helrabelo](https://github.com/helrabelo)
